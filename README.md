@@ -25,5 +25,6 @@ I am a Software Engineer from Mumbai, currently pursuing a Master's in Computer 
 <img align="left" alt="Bash Script" width="64px" src="https://banner2.cleanpng.com/20180705/txh/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571eaf1a4.5375084915307871859623.jpg"/>
 <br />
 <br />
+<br>
 
 📫 You can reach out to me via <a href="https://www.linkedin.com/in/parvdave">LinkedIn<a/>
