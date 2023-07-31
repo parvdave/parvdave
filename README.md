@@ -1,6 +1,6 @@
 ## Hey, this is Parv 👋🏼
 
-I am a Software Engineer from Mumbai, currently pursuing a Master's in Computer Engineering at SUNY Stony Brook.
+I am a Software Engineer from Mumbai, currently pursuing a Master's in Computer Engineering at SUNY Stony Brook, New York.
 
 🔎 &nbsp; Currently looking to work on open-source projects. <br>
 💻 &nbsp;  Passionate about Distributed Systems, Cloud Architecture, and System Design. <br>
