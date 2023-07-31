@@ -27,4 +27,4 @@ I am a Software Engineer from Mumbai, currently pursuing a Master's in Computer 
 <br />
 <br>
 
-📫 You can reach out to me via <a href="https://www.linkedin.com/in/parvdave">LinkedIn<a/>
+📫 &nbsp; You can reach out to me via <a href="https://www.linkedin.com/in/parvdave">LinkedIn<a/>
