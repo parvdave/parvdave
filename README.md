@@ -5,7 +5,7 @@ I am a Software Engineer, currently pursuing a Master's in Computer Engineering 
 🔎 &nbsp; Currently looking to work on open-source projects. <br>
 💻 &nbsp; Passionate about Distributed Systems, Cloud Architecture, and System Design. <br>
 
-### Languages:
+### Languages & Tools:
 
 <img align="left" alt="Scala" width="32px" src="https://avatars.githubusercontent.com/u/57059?s=200&v=4"/>
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
