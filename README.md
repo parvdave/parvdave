@@ -1,6 +1,6 @@
 ## Hey, this is Parv 👋🏼
 
-I am a Software Engineer, currently pursuing an MS in Computer Engineering at Stony Brook University, New York.
+I am a Software Engineer and recently graduated with an MS in Computer Engineering from Stony Brook University in New York.
 
 🔎 &nbsp; Currently looking to work on open-source projects. <br>
 💻 &nbsp; Passionate about Distributed Systems, Cloud Architecture, and System Design. <br>
