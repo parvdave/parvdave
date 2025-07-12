@@ -23,7 +23,7 @@ I am a Software Engineer, currently pursuing an MS in Computer Engineering at St
 <img align="left" alt="Apache Spark" width="48px" src="https://raw.githubusercontent.com/github/explore/6f5025830918df26b37d23b3ffffbc35725fe15f/topics/spark/spark.png" />
 
 <img align="left" alt="Git" width="32px" src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" />
-<img align="left" alt="Bash Script" width="64px" src="https://banner2.cleanpng.com/20180705/txh/kisspng-bash-shell-script-command-line-interface-z-shell-5b3df571eaf1a4.5375084915307871859623.jpg"/>
+<img align="left" alt="Bash Script" width="64px" src="https://camo.githubusercontent.com/1d19b0321539fd04f6ab0b0a5c1aa62c511561fb0f9382a28a143b3128c2369f/68747470733a2f2f63646e2e7261776769742e636f6d2f6f64622f6f6666696369616c2d626173682d6c6f676f2f6d61737465722f6173736574732f4c6f676f732f4964656e746974792f504e472f424153485f6c6f676f2d7472616e73706172656e742d62672d636f6c6f722e706e67"/>
 <br />
 <br />
 <br>
