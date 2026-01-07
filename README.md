@@ -2,7 +2,7 @@
 
 I am a Software Engineer and recently graduated with an MS in Computer Engineering from Stony Brook University in New York.
 
-🔎 &nbsp; Currently looking to work on open-source projects. <br>
+🔎 &nbsp; Currently looking for a job in Software Engineering. <br>
 💻 &nbsp; Passionate about Distributed Systems, Cloud Architecture, and System Design. <br>
 
 ### Languages & Tools:
